@@ -1,0 +1,4 @@
+[submodule "client/trace-server-protocol"]
+	path = client/trace-server-protocol
+	url = git@github.com:Crablicious/trace-server-protocol.git
+	branch = fixes
