@@ -71,3 +71,4 @@ therefore a fork with a compatibility patch on top.
 - A convenience subcommand, e.g. to open a list of trace paths in an
   experiment.
 - Nicer virtual table output
+- Tests
